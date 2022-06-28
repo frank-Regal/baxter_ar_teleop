@@ -7,7 +7,6 @@ HoloLens 2 augmented reality application to remotely teleop a Baxter dual arm ro
 - ```devel``` - development branch. Working daily on this project, devel is not garenteed to build.
 
 
-
 ## Getting Started
 ### Tested Versions
 - [Unity 2020.3.35f1](https://unity3d.com/get-unity/download 'https://unity3d.com/get-unity/download')
